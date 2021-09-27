@@ -3,6 +3,8 @@
 .classpath
 .project
 .settings
+.gradle
+/build/
 target
 *~
 *.swp
@@ -11,4 +13,5 @@ target
 *.ipr
 *.iws
 /.idea/
+.java-version
 
